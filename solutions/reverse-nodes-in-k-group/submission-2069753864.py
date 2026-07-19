@@ -43,4 +43,3 @@ class Solution:
             prevGroupLast = temp
             temp = nextGroupNode
         return head
-        
